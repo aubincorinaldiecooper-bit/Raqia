@@ -6,12 +6,11 @@ title: Raqia
 # Raqia
 ## A Unified Architecture for Generative World Permanence
 
-Aubin Cooper 
-Independent Researcher  
-Toronto, Canada
-aubincorinaldiecooper@gmail.com
----
+**Aubin Cooper**
 
+Independent Researcher, Toronto, Canada — [aubincorinaldiecooper@gmail.com](mailto:aubincorinaldiecooper@gmail.com)
+
+---
 ## Abstract
 
 Generative world permanence—the capacity of AI systems to sustain consistent, causal, and infinite virtual environments—remains the "binding problem" of modern generative AI. While individual advances in video generation, world simulation, and long-term memory have accelerated, they remain isolated capabilities that fail to prevent semantic drift over extended horizons. This paper proposes **Raqia**, a unified quadripartite architecture that defines the necessary interfaces for Perception (The Codec-Aligned Retina), Simulation (The Causal Body), Generation (The Error-Recycling Visual Cortex), and Cognition (The Semantic Hippocampus). We validate this architectural standard through a specific reference implementation utilizing OneVision-Encoder, LingBot-World, Stable Video Infinity, and SimpleMem. Our analysis demonstrates that establishing strict protocols between these four organs is the necessary condition for overcoming the entropic decay inherent in autoregressive generation.
