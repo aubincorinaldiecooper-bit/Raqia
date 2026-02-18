@@ -6,8 +6,10 @@ title: Raqia
 # Raqia
 ## A Unified Architecture for Generative World Permanence
 
-**Raqia Team**  
-
+Aubin Cooper 
+Independent Researcher  
+Toronto, Canada
+aubincorinaldiecooper@gmail.com
 ---
 
 ## Abstract
